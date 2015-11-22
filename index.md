@@ -11,13 +11,18 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Getting pregnant isn't always easy! Use this simple app to find out your most fertile days!
+## Getting pregnant isn't always easy! 
+## Use this Ovulation Calculator app to find out your most fertile days!
 
 
 --- .class #id 
 
 ## How does the app calculate most fertile days?
-
+<p>
+<p>
+<p>
+<p>
+pib
 In the average menstrual cycle, ovulation occurs 14 days before the menstrual period arrives -- or on day 14 of a 28-day cycle. The app uses this fact to calculate your most fertile days.
 
 
